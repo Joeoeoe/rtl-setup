@@ -3,8 +3,8 @@ import './index.css';
 
 const title = 'Hello React';
 
-function App() {
+function Example() {
   return <div>{title}</div>;
 }
 
-export default App;
+export default Example;
